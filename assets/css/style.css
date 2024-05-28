@@ -66,3 +66,18 @@
 .w-bg{
   background-color: #13334C;
 }
+
+.detail{
+  margin-top: 20px;
+}
+
+.img__fluid img{
+  margin-top: 20px;
+  width: 1000px;
+  height: 400px;
+  object-fit: cover;
+}
+
+.deskripsi-destinasi{
+  margin-top: 20px;
+}
